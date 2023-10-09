@@ -1,0 +1,3 @@
+member book type
+3030    1110  borrow
+3030    1110  return
